@@ -1,4 +1,4 @@
-**Highway for commonly used effects/components in front-end**
+**Highway for building web's front-end**
 
 A self-curated list of great front-end resources to help build web app faster.
 
@@ -147,4 +147,4 @@ A self-curated list of great front-end resources to help build web app faster.
 
 <br>
 
-Feel free to copy/fork, and please let [me](https://www.facebook.com/seynachu) know if you find something wich should be in ths list.
+Feel free to copy/fork, and please let [me](https://www.facebook.com/seynachu) know if you find something which should be in ths list.
