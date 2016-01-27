@@ -69,6 +69,7 @@ A self-curated list of great front-end resources to help build web app faster.
 
 
 ####DateTime Picker
+* [Bootstrap-datepicker](https://github.com/eternicode/bootstrap-datepicker)
 * [Pickdate](http://amsul.ca/pickadate.js/)
 * [Bootstrap-datetimepicker](https://github.com/Eonasdan/bootstrap-datetimepicker)
 
