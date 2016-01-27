@@ -68,6 +68,10 @@ A self-curated list of great front-end resources to help build web app faster.
 * [Animated SVG Image Slider](https://codyhouse.co/gem/animated-svg-image-slider/)
 
 
+####DateTime Picker
+* [Pickdate](http://amsul.ca/pickadate.js/)
+* [Bootstrap-datetimepicker](https://github.com/Eonasdan/bootstrap-datetimepicker)
+
 ####Optimal Resizing and Positioning
 
 * [Masonry](http://masonry.desandro.com/)
