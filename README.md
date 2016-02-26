@@ -64,6 +64,7 @@ A self-curated list of great front-end resources to help build web app faster.
 
 ####Responsive Slider
 
+* [Swiper.js](https://github.com/nolimits4web/swiper/)
 * [Slick.js](http://kenwheeler.github.io/slick/)
 * [Animated SVG Image Slider](https://codyhouse.co/gem/animated-svg-image-slider/)
 
